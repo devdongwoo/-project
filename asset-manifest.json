@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shopping-mall-project.git/static/css/main.24642b03.css",
+    "main.js": "/shopping-mall-project.git/static/js/main.b9fb5f76.js",
+    "static/js/592.3082f490.chunk.js": "/shopping-mall-project.git/static/js/592.3082f490.chunk.js",
+    "static/media/logo.svg": "/shopping-mall-project.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shopping-mall-project.git/index.html",
+    "main.24642b03.css.map": "/shopping-mall-project.git/static/css/main.24642b03.css.map",
+    "main.b9fb5f76.js.map": "/shopping-mall-project.git/static/js/main.b9fb5f76.js.map",
+    "592.3082f490.chunk.js.map": "/shopping-mall-project.git/static/js/592.3082f490.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24642b03.css",
+    "static/js/main.b9fb5f76.js"
+  ]
+}
